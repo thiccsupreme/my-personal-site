@@ -109,7 +109,15 @@ html{
     text-align: start;
     color: #111;
 }
-
+.socials6 ul a{
+    color: #fff;
+    text-align: start;
+}
+.socials6 ul a:hover{
+    text-decoration: underline;
+    text-align: start;
+    color:red;
+}
 
 
 
@@ -458,8 +466,3 @@ footer span a:hover{
         font-size: 27px;
     }
 }
-
-
-
-
-

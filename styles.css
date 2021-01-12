@@ -118,6 +118,15 @@ html{
     text-align: start;
     color:red;
 }
+.socials7 ul a{
+    color: #fff;
+    text-align: start;
+}
+.socials7 ul a:hover{
+    text-decoration: underline;
+    text-align: start;
+    color:#5851DB;
+}
 
 
 

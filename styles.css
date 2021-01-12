@@ -64,15 +64,6 @@ html{
 /* socials customization */
 
 
-.socials ul a{
-    color: #fff;
-    text-align: left;
-}
-.socials ul a:hover{
-    text-decoration: underline;
-    text-align: start;
-    color: #E1306C;
-}
 .socials2 ul a{
     color: #fff;
     text-align: start;
